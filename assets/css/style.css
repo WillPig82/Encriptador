@@ -1,0 +1,33 @@
+:root{
+	
+	--color-fondo-1: #f1f1f1;
+	--color-fondo-2: linear-gradient(0deg, #f1f1f1, #73756F);
+	--color-fondo-3: #C9C9C5;
+	--color-fondo-4: linear-gradient(0deg, #1C1C1B 40%,  #f1f1f1);
+	--color-btn-1: #73756F;
+	--color-fuente-claro: #C9C9C5;
+	--color-fuente-oscura: #1C1C1B;
+	/*--color-fuente-claro: #f1f1f1;*/
+	--color-fondo-5: radial-gradient(#C9C9C5 30%,  #1C1C1B);
+
+
+}
+ 
+ body {
+ 	font-family: 'Signika', sans-serif;
+ 	font-size: 16px;
+ }
+
+ textarea {
+ 	font-family: 'Signika', sans-serif;
+ 	font-size: 16px;
+ }
+ 	
+/*--color-fondo-1: #f1f1f1;
+	--color-fondo-2: linear-gradient(0deg, #F0F5E9, #BEC2B8);
+	--color-fondo-3: #C9C9C5;
+	--color-fondo-4: linear-gradient(0deg, #BEC2B8, #F0F5E9);
+	--color-btn-1: #73756F;
+	--color-fuente-claro: #C9C9C5;
+	--color-fuente-oscura: #1C1C1B;
+	/*--color-fuente-claro: #f1f1f1;*/

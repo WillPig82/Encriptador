@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Signika:wght@300;600&display=swap" rel="stylesheet">
+
+	<title>Encriptador</title>
+	<link rel="stylesheet" type="text/css" href="./assets/css/encabezado/encabezado.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/contenedor/contenedor.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/insertTexto/insertTexto.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/textoFijo1/textoFijo1.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/boton/botones.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/contenedor/contenedor__cerdo.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/textoEncriptado/textoEncriptado.css">
+
+
+	
+</head>
+
+<body>
+	<header class="encabezado">
+		<img class="imagenUno" src="assets/img/Logo--1.png" alt="Logo">
+	</header>
+	<main>
+		<section class="contenedor">
+			<form class="insert__texto">
+				<textarea class="insert__texto--caja" placeholder="Ingrese el texto Aquí"></textarea>
+			</form>
+			<div class="textoFijo1">
+				<img class="icono1" src="assets/img/Icono-2.svg" alt="">
+				<p class="textoFijo1--1">Solo letras minúsculas y sin acentos</p>
+			</div>
+			<div class="btnEncriptar">
+				<button class="btn--1" onclick="btnEncriptar()">
+					Encriptar
+				</button>
+			</div>
+						
+			<div class="btnDesencriptar">
+				<button class="btn--2" onclick="btnDesencriptar()">
+					Desencriptar
+				</button>
+			</div>
+					
+			<div class="btnCopiar">
+				<button class="btn--3" onclick="copiar()">
+					Copiar
+				</button>
+			</div>
+
+			<div class="textoEncriptado">
+				<textarea class="cajaTexto"></textarea>
+				
+
+			</div>
+
+		</section>
+
+		
+		<section class="contenedor__cerdo">
+			<div class="imagenCerdo">
+				<img class="imagenCerdoPNG" src="assets/img/desencriptar_1.png" alt="Logo">
+			</div>
+					
+			<div class="textoFijo2__cerdo">
+				<h2 class="textoFijo2__h2">Ningún mensaje fue encontrado</h2>
+				<p class="textoFijo2__p">Ingresa el texto que desees encriptar o desencriptar.</p>
+			</div>
+		</section>
+	</main>
+	
+	<script type="text/javascript" src="./assets/js/jquery-3.6.4.min.js"></script>
+	<script src="./assets/js/script.js"></script>
+
+	
+	
+	
+</body>
+</html>

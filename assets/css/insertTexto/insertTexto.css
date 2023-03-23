@@ -1,0 +1,22 @@
+.insert__texto{
+	/*display: inline-block;*/
+	grid-column: 1 / 3;
+	grid-row: 1 / 2;
+	padding: 2rem 0 2rem 10rem;
+
+	
+	
+}
+
+.insert__texto--caja{
+	resize: none;
+	border: none;
+	background-color: transparent;*/
+	padding: 1rem;
+	font-weight: bold;
+	font-size: 2rem;
+	color: var(--color-fuente-oscura);
+	width: 80%;
+	height: 250px;
+	outline: none;
+}

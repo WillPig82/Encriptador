@@ -1,0 +1,9 @@
+.contenedor{
+	display: grid;
+	/*height: 850px;
+	width: 1440px;*/
+	background: var(--color-fondo-4);
+	grid-template-columns: 1fr 1fr 350px;
+	grid-template-rows: 350px 48px 150px;
+	/*border: 3px solid #000;
+}

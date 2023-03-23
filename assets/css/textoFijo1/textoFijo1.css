@@ -1,0 +1,17 @@
+.textoFijo1{
+	display: flex;
+	grid-column: 1 / 3;
+	grid-row: 2 / 3;
+	padding: 0 0 0 10rem;
+	align-items: center;
+}
+
+.icono1{
+	height: 22px;
+	width: 22px;
+	padding: 0 1rem 0 0;
+}
+
+.textoFijo1--1{
+	color: var(--color-fuente-claro);
+}

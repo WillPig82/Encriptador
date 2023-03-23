@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <rect
+       x="93.927086"
+       y="104.13244"
+       width="61.988094"
+       height="28.726191"
+       id="rect14" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <circle
+       style="fill:#1c1c1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0840051"
+       id="path10"
+       cx="6.5717278"
+       cy="6.7134666"
+       r="6.3499999" />
+    <text
+       xml:space="preserve"
+       id="text12"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14);fill:#c9c9c5;fill-opacity:1;stroke:none;"
+       transform="matrix(1.617879,0,0,1.0697825,-147.91544,-111.20926)"><tspan
+         x="93.927734"
+         y="113.78828"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima;fill:#c9c9c5;fill-opacity:1">!</tspan></tspan></text>
+  </g>
+</svg>
